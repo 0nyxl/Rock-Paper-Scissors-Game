@@ -16,21 +16,21 @@ Yellow: Draw
 
 Replay Option: After a game is completed, the player is given an option to play again.
 
-Installation
+#~Installation:
 
 Clone this repository:
 
 git clone https://github.com/0nyxl/Rock-Paper-Scissors-Game.git
 
-Navigate to the project directory:
+#~Navigate to the project directory:
 
 cd rock-paper-scissors
 
-Compile the code: If you're using g++:
+#~Compile the code: If you're using g++:
 
 g++ -o rock_paper_scissors main.cpp
 
-Run the game:
+#~Run the game:
 
 ./rock_paper_scissors
 
